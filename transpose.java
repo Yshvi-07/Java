@@ -13,10 +13,10 @@ public class Main
 		    }
 		}
 	
-			for(int i=0;i<n;i++){
-		    for(int j=0;j<m;j++){
+				for(int j=0;j<m;j++){
+		    for(int i=0;i<n;i++){
 		        //a[i][j]=sc.nextInt();
-		        	System.out.print(a[j][i]+" ");
+		        	System.out.print(a[i][j]+" ");
 		    }
 		    System.out.println("");
 		    
